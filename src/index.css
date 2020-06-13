@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {background-repeat: repeat;background-image: url("C:/Users/anhtn/Desktop/GitLab/newapp/src/components/interlaced.png")};,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,35 @@
+.card {
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 250px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 50 auto;
+  margin-top: 30px;
+}
+
+.card .fa-spinner {
+  font-size: 180px;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+}
+
+.cardName {
+  background-color: white;
+  margin-top: 200px;
+  margin-left: 15px;
+  border-radius: 15px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding: 10px;
+  border: 6px solid #666666;
+  width: 210px;
+  text-align: center;
+}
+
+a , a:hover{
+  color: black;
+}
